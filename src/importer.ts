@@ -1,0 +1,9 @@
+export const nameInput = document.querySelector<HTMLInputElement>("#name");
+export const phoneNumberInput = document.querySelector<HTMLInputElement>("#phoneNumber");
+export const SIMstorageInput = document.querySelector<HTMLInputElement>("#SIMstorage");
+export const deviceStorageInput = document.querySelector<HTMLInputElement>("#deviceStorage");
+export const saveButton = document.querySelector<HTMLButtonElement>("#saveButton");
+export const showButton = document.querySelector<HTMLButtonElement>("#showButton");
+export const closeDrawerButton = document.querySelector<HTMLButtonElement>("#closeDrawerButton");
+export const drawerList = document.querySelector<HTMLInputElement>("#drawerList");
+export const listDrawerElement = document.querySelector<HTMLUListElement>("#listInDrawe");
